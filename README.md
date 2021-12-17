@@ -11,3 +11,7 @@ accActivity: host.exp.exponent.MainActivity
 
 ## Download App
 Please go to: https://github.com/sdetpro-blog/sdetpro-shop-app/releases
+
+# Credit
+* A big thank to this course: https://www.udemy.com/course/mern-stack-e-commerce-mobile-app-react-native-redux-expo/
+* Thanks to all Instructors there in the course!!
