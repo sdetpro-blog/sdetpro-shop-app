@@ -9,3 +9,5 @@ appPackage: com.sdetpro.shopApp
 accActivity: host.exp.exponent.MainActivity
 ```
 
+## Download App
+Please go to: https://github.com/sdetpro-blog/sdetpro-shop-app/releases
