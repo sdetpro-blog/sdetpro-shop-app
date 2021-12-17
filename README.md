@@ -2,10 +2,9 @@
 * This is a simple e-commerce application for automation test practice purpose
 * At the moment, the app is in Beta stage
 
-For Vietnamese people, if you want to learn with me, please see the course list:
+👉 For Vietnamese people, if you want to learn with me, please see the course list:
 https://learn.sdetpro.com/
-
-
+👉 SDETPRO Blog: https://sdetpro.com/
 
 https://user-images.githubusercontent.com/18535553/146566601-cacabd81-5c0d-4bd1-8942-a1d40aa34312.mp4
 
