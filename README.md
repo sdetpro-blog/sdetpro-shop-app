@@ -13,9 +13,29 @@ https://user-images.githubusercontent.com/18535553/146566601-cacabd81-5c0d-4bd1-
 ## App info
 
 ```
-appPackage: com.sdetpro.shopApp
+appPackage: com.tuhuynh.sdetproecommerce
 accActivity: host.exp.exponent.MainActivity
 ```
+
+## Sample checklist
+You can base on below checklist to automate the app
+
+### Registration
+* Make sure user can register an account: msg displayed, user is navigated to login screen
+
+### Authentication
+* User can login with correct creds
+* There is a msg when use login with incorrect
+
+### General UI
+* Categories not empty
+* Item list is not empty
+* Item details correct
+
+### Buying items
+* Make sure user can cancel order before submit
+* Make sure user can oder one or more items
+
 
 ## Download App
 Please go to: https://github.com/sdetpro-blog/sdetpro-shop-app/releases
