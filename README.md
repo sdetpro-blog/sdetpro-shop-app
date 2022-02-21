@@ -7,7 +7,8 @@ https://learn.sdetpro.com/
 
 👉 SDETPRO Blog: https://sdetpro.com/
 
-https://user-images.githubusercontent.com/18535553/146566601-cacabd81-5c0d-4bd1-8942-a1d40aa34312.mp4
+https://user-images.githubusercontent.com/18535553/154889510-83804c3a-f238-4853-9cf4-c0631dbfad4d.mov
+
 
 
 ## App info
