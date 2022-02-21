@@ -1,6 +1,6 @@
 # SDETPRO E-commerce
 * This is a simple e-commerce application for automation test practice purpose
-* At the moment, the app is in Beta stage
+* Please use latest version (1.0 now)
 
 👉 For Vietnamese people, if you want to learn with me, please see the course list:
 https://learn.sdetpro.com/
